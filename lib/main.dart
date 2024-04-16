@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:project/login.dart';
 
 void main() {
   runApp(const MyApp());
@@ -36,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
    
     return Scaffold(
-     appBar: AppBar(actions: [],),
+     body: Login(),
        // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
