@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "929391462151",
+    "firebase_url": "https://comp4206-mohamed-default-rtdb.firebaseio.com",
+    "project_id": "comp4206-mohamed",
+    "storage_bucket": "comp4206-mohamed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929391462151:android:5cc076b98ec49492c867a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1xr6PyCzSG9CuP5eyYvTBWPdMvtXPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929391462151:android:fd4eb57b70d385c3c867a2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1xr6PyCzSG9CuP5eyYvTBWPdMvtXPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
